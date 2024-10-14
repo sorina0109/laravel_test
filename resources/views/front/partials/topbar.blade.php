@@ -4,7 +4,7 @@
         <div class="col-lg-6 px-5 text-start">
             <div class="h-100 d-inline-flex align-items-center px-3">
                 <small class="fa text-primary fa-phone-alt me-2"></small>
-                <small>0744 635 226</small>
+                <small></small>
             </div>
             <div class="h-100 d-inline-flex align-items-center px-3">
                 <small class="far text-primary fa-envelope-open me-2"></small>
