@@ -13,8 +13,8 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <h4 class="text-light mb-4">Adresa</h4>
-                <p><i class="fa text-primary fa-map-marker-alt me-3"></i>Str. Mihail Kogalniceanu Nr.16 Galati</p>
-                <p><i class="fa text-primary fa-phone-alt me-3"></i>0744 635 226</p>
+                <p><i class="fa text-primary fa-map-marker-alt me-3"></i> Galati</p>
+                <p><i class="fa text-primary fa-phone-alt me-3"></i></p>
                 <p><i class="fa text-primary fa-envelope me-3"></i>info@example.com</p>
             </div>
             <div class="col-lg-4 d-none d-lg-block col-md-6">
